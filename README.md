@@ -19,5 +19,13 @@ This is a repository to showcase my skills, share projects and track my progress
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
   ### Maji Ndogo Data Exploration
-  **Code:** ['Data Exploration Project Queries: Maji Ndogo.sql'](
-  **Description:** The dataset contains 
+  **Code:** ['Data Exploration Project Queries: Maji Ndogo.sql'](https://chantellzibi.github.io/Portfolio-Projects/maji-ndogo-data-exploration)
+
+  **Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water_quality table to find records    where the subjective_quality_score is within a certain range and the visit_count is above a certain threshold.
+
+**Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
+
+**Technology used:** SQL Server
+
+**Results:** Looking at the river column, Sokoto has the largest population of people drinking river water so drilling equipment should be send out to Sokoto first, so people can drink safe filtered water from a well. The majority of water from Amanzi comes from taps, but half of these home taps don't work because the infrastructure is broken so engineering teams should be send out to look at the infrastructure in Amanzi first. Fixing a large pump, treatment plant or reservoir means that
+thousands of people will have running water. This means they will also not have to queue for water, so this would improve two things at once.
