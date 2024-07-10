@@ -15,13 +15,13 @@ This is a repository to showcase my skills, share projects and track my progress
     - SQL
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#maji-ndogo-data-exploration)
  
-  ## Portfolio Projects
+## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
-  ### Maji Ndogo Data Exploration
-  **Code:** ['Data Exploration Project Queries: Maji Ndogo.sql'](https://chantellzibi.github.io/Portfolio-Projects/maji-ndogo-data-exploration)
+ ### Maji Ndogo Data Exploration
+**Code:** [Data Exploration Project Queries: Maji Ndogo](https://chantellzibi.github.io/Portfolio-Projects/maji-ndogo-data-exploration)
 
-  **Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water_quality table to find records    where the subjective_quality_score is within a certain range and the visit_count is above a certain threshold.
+**Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water_quality table to find records   where the subjective_quality_score is within a certain range and the visit_count is above a certain threshold.
 
 **Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
 
