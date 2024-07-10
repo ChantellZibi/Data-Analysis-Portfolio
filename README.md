@@ -11,7 +11,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 ## Table of contents
 - [About](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/ChantellZibi/Charting-the-course-for-Maji-Ndogo-s-water-future-Part-1-/edit/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
     - SQL
     - [Maji Ndogo Data Exploration](
  
