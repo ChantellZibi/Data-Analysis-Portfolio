@@ -10,4 +10,10 @@ My academic experiences have served me well in developing my communication, deci
 This is a repository to showcase my skills, share projects and track my progress in Data Analysis/Science related topics.
 
 ## Table of contents
-- [About](
+- [About](https://github.com/ChantellZibi/Charting-the-course-for-Maji-Ndogo-s-water-future-Part-1-/edit/main/README.md#about)
+- [Portfolio Projects](https://github.com/ChantellZibi/Charting-the-course-for-Maji-Ndogo-s-water-future-Part-1-/edit/main/README.md#portfolio-projects)
+    - SQL
+    - [Maji Ndogo Data Exploration](
+ 
+  ## Portfolio Projects
+  In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
