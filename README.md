@@ -12,12 +12,23 @@ This is a repository to showcase my skills, share projects and track my progress
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+    - Presentation
+        - [EHR Presentation](#ehr-presentation)
     - SQL
         - [Maji Ndogo Data Exploration](#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](#maji-ndogo-action-plan)
  
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
+
+ ### EHR Presentation
+
+ **Presentation:** [EHR System Presentation](
+
+ **Goal:** The goal of this project is to present a design of an EHR system to help improve care coordination, providing doctors and patients with better access to test results, identifying missing patient information and may allow better care in emergency situations.
+
+
+ 
 
  ### Maji Ndogo Data Exploration
 
