@@ -23,9 +23,13 @@ This is a repository to showcase my skills, share projects and track my progress
 
  ### EHR Presentation
 
- **Presentation:** [EHR System Presentation](
+ **Presentation:** [EHR System Presentation](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/EHR%20presentation.pdf)
 
  **Goal:** The goal of this project is to present a design of an EHR system to help improve care coordination, providing doctors and patients with better access to test results, identifying missing patient information and may allow better care in emergency situations.
+
+ **Description:** The project focuses on mitigating problems that people face in rural hospitals in regards to patient management, patient health records and resource allocation due to the lack of a digital patient management system.
+
+ **Skills:** Powerpoint presentation,data analysis, data visualization.
 
 
  
