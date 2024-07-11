@@ -14,6 +14,7 @@ This is a repository to showcase my skills, share projects and track my progress
 - [Portfolio Projects](#portfolio-projects)
     - SQL
         - [Maji Ndogo Data Exploration](#maji-ndogo-data-exploration)
+        - [Maji Ndojo Action Plan](#maji-ndogo-action-plan)
  
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
@@ -24,7 +25,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
 
-**Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold.
+**Description:** The database contains a water source table, a 'visits' table to record all the trips made to different water sources and the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold.
 
 **Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
 
@@ -35,13 +36,25 @@ thousands of people will have running water. This means they will also not have 
 
 **Recommendations:** 
 - If communities are using rivers, trucks should be dispatched to those regions to provide water temporarily in the short term, while crews are send out to drill for wells, providing a more permanent solution. Sokoto is the first province that should be targeted.
-- If communities are using wells, then filters should be installed to purify the water. For chemically polluted wells, we can install reverse osmosis (RO)
-filters, and for wells with biological contamination, we can install UV filters that kill microorganisms - but we should install RO filters too. In
-the long term, we must figure out why these sources are polluted.
-- For shared taps, in the short term, we can send additional water tankers to the busiest taps, on the busiest days. We can use the queue time
-pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed.
-According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get
-queue times below 30 min. Towns like Bello, Abidjan and Zuri have a lot of people using shared taps, so we will send out teams to those
-towns first.
-- Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution,
-installing taps in homes, is resource-intensive and better suited as a long-term goal.
+- If communities are using wells, then filters should be installed to purify the water. For chemically polluted wells, we can install reverse osmosis (RO) filters, and for wells with biological contamination, we can install UV filters that kill microorganisms, but we should install RO filters too. In the long term, we must figure out why these sources are polluted.
+- For shared taps, in the short term, we can send additional water tankers to the busiest taps, on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed. According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min. Towns like Bello, Abidjan and Zuri have a lot of people using shared taps, so we will send out teams to those towns first.
+- Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution, installing taps in homes, is resource intensive and better suited as a long-term goal.
+
+ ### Maji Ndogo Action Plan
+
+**Project Overview:** The goal of this project is to implement a plan in the database to improve water sources in Maji Ndogo by creating a table where our teams have the information they need to fix, upgrade and repair water sources.
+
+**Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
+
+**Description:** The database contains the addresses of the places the repair team should visit (street address, town, province), the type of water source they should improve, and what should be done to improve it.
+
+**Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
+
+**Technology used:** SQL Server
+
+**Results:** Looking at the river column, Sokoto has the largest population of people drinking river water so drilling equipment should be send out to Sokoto first, so people can drink safe filtered water from a well. The majority of water from Amanzi comes from taps, but half of these home taps don't work because the infrastructure is broken so engineering teams should be send out to look at the infrastructure in Amanzi first. Fixing a large pump, treatment plant or reservoir means that
+thousands of people will have running water. This means they will also not have to queue for water, so this would improve two things at once.
+
+**Recommendations:** 
+- 
+
