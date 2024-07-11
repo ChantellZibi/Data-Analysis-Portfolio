@@ -101,8 +101,8 @@ The Vaal University of Technology, NDip: Civil Engineering, 2015 - 2019
 
 ### Certificates
 The best way to showcase your skills is by sharing the work you have done but sometimes certificates appear to be as an indirect result. Here is a list of the certificates I have (in reverse chronological order, with completion dates in brackets):
-- [Data Analytics Certificate](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/DAcertificate.pdf)
-- [NDip: Civil Engineering](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/DAcertificate.pdf)
+- [Data Analytics Certificate](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/DAcertificate.pdf) (Dec 2023)
+- [NDip: Civil Engineering](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/DAcertificate.pdf) (Sept 2019)
 
 ## Contacts
 - LinkedIn: [@chantellzibi](https://www.linkedin.com/in/chantell-zibi/)
