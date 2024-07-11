@@ -23,7 +23,6 @@ This is a repository to showcase my skills, share projects and track my progress
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
 ### EHR Presentation
-
  **Presentation:** [EHR System Presentation](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/EHR%20presentation.pdf)
 
  **Goal:** The goal of this project is to mitigating problems that people face in rural hospitals in regards to patient management, patient health records and resource allocation due to the lack of a digital patient management system which will help to  improve care coordination, providing doctors and patients with better access to test results, identifying missing patient information and may allow better care in emergency situations.
@@ -38,10 +37,9 @@ This is a repository to showcase my skills, share projects and track my progress
 
 
 ### Maji Ndogo Data Cleaning
-
 **Project Overview:** The aim of this project is to cluster our data, stepping back from the individual figures to gain a panoramic understanding. This bird's eye view will allow us to unearth broader narratives and hidden correlations concealed within the dataset.
 
-**Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
+**Code:** [Data Cleaning Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Data%20Cleaning.sql)
 
 **Description:** The database contains a water source table, a 'visits' table to record all the trips made to different water sources, the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold and an employee table which has info on all of our workers, but then the email addresses have not been added.
 
@@ -49,13 +47,13 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Technology used:** SQL Server
 
-**Results:** Each employees email address was added.
-
-**Recommendations:** 
-- 
+**Results:** 
+- Most water sources are rural.
+- 43% of our people are using shared taps. 2000 people often share one tap.
+- 31% of our population has water infrastructure in their homes, but within that group, 45% face non-functional systems due to issues with pipes, pumps, and reservoirs.
+- 18% of our people are using wells of which, but within that, only 28% are clean..
 
 ### Maji Ndogo Data Exploration
-
 **Project Overview:** This data analysis project aims to provide insights into water sources in Maji Ndogo that affect most people so that they can be improved to benefit the residents.
 
 **Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
@@ -75,7 +73,6 @@ This is a repository to showcase my skills, share projects and track my progress
 - Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution, installing taps in homes, is resource intensive and better suited as a long-term goal.
 
 ### Maji Ndogo Action Plan
-
 **Project Overview:** The goal of this project is to implement a plan in the database to improve water sources in Maji Ndogo by creating a table where our teams have the information they need to fix, upgrade and repair water sources.
 
 **Code:** [Action Plan Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Action%20Plan.sql)
