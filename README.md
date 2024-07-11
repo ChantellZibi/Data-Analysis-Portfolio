@@ -19,6 +19,9 @@ This is a repository to showcase my skills, share projects and track my progress
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
  ### Maji Ndogo Data Exploration
+
+**Project Overview:** This data analysis project aims to provide insights into specific provinces or towns in Maji Ndogo where some water sources area abundant and where some are lacking.
+
 **Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
 
 **Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water_quality table to find records   where the subjective_quality_score is within a certain range and the visit_count is above a certain threshold.
