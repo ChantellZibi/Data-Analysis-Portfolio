@@ -55,7 +55,7 @@ thousands of people will have running water. This means they will also not have 
 **Results:** Addressing broken infrastructure offers a significant impact even with just a single intervention. It is expensive to fix, but so many people can benefit from repairing one facility. For example, fixing a reservoir or pipe that multiple taps are connected to. We identified towns like Amina,Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 
 **Recommendations:** 
-- Install UV filter or Install RO filter for improvement where the results of the pollution tests are Contaminated: Biological and Contaminated: Chemical respectively.
+- Install UV filter or Install RO filter for improvement where the results of the pollution tests are Contaminated: Biological and Contaminated: Chemical respectively.
 - Add Drilled wells to the improve all river sources
 - Install one tap near each shared tap for every 30 minutes of queue time.
 
