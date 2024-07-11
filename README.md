@@ -36,6 +36,7 @@ This is a repository to showcase my skills, share projects and track my progress
  **Results:** The implementation of an Electronic Health Record (EHR) system would automate processes, reducing waiting times, enabling efficient check-ins and providing real-time updates . Digital patient records would improve accessibility, accuracy and continuity of care. Additionally, the system would assist in resource management, optimizing bed allocation, equipment utilization and staff allocation. By embracing the EHR system, the hospital aims to enhance healthcare delivery, improve operational efficiency and increase patient satisfaction, ultimately benefits the local community.
 
 
+
  ### Maji Ndogo Data Exploration
 
 **Project Overview:** This data analysis project aims to provide insights into water sources in Maji Ndogo that affect most people so that they can be improved to benefit the residents.
