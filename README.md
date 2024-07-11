@@ -10,10 +10,10 @@ My academic experiences have served me well in developing my communication, deci
 This is a repository to showcase my skills, share projects and track my progress in Data Analysis/Science related topics.
 
 ## Table of contents
-- [About](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
     - SQL
-        - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/edit/main/README.md#maji-ndogo-data-exploration)
+        - [Maji Ndogo Data Exploration](#maji-ndogo-data-exploration)
  
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
