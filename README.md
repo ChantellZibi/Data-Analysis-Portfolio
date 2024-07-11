@@ -15,6 +15,7 @@ This is a repository to showcase my skills, share projects and track my progress
     - Presentation
         - [EHR Presentation](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#ehr-presentation)
     - SQL
+        - [Maji Ndogo Data Cleaning](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-cleaning)
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
  
@@ -36,6 +37,22 @@ This is a repository to showcase my skills, share projects and track my progress
  **Results:** The implementation of an Electronic Health Record (EHR) system would automate processes, reducing waiting times, enabling efficient check-ins and providing real-time updates . Digital patient records would improve accessibility, accuracy and continuity of care. Additionally, the system would assist in resource management, optimizing bed allocation, equipment utilization and staff allocation. By embracing the EHR system, the hospital aims to enhance healthcare delivery, improve operational efficiency and increase patient satisfaction, ultimately benefits the local community.
 
 
+### Maji Ndogo Data Cleaning
+
+**Project Overview:** The aim of this project is to cluster our data, stepping back from the individual figures to gain a panoramic understanding. This bird's eye view will allow us to unearth broader narratives and hidden correlations concealed within the dataset.
+
+**Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
+
+**Description:** The database contains a water source table, a 'visits' table to record all the trips made to different water sources, the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold and an employee table which has info on all of our workers, but then the email addresses have not been added.
+
+**Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
+
+**Technology used:** SQL Server
+
+**Results:** Each employees email address was added.
+
+**Recommendations:** 
+- 
 
 ### Maji Ndogo Data Exploration
 
@@ -49,8 +66,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Technology used:** SQL Server
 
-**Results:** Looking at the river column, Sokoto has the largest population of people drinking river water so drilling equipment should be send out to Sokoto first, so people can drink safe filtered water from a well. The majority of water from Amanzi comes from taps, but half of these home taps don't work because the infrastructure is broken so engineering teams should be send out to look at the infrastructure in Amanzi first. Fixing a large pump, treatment plant or reservoir means that
-thousands of people will have running water. This means they will also not have to queue for water, so this would improve two things at once.
+**Results:** Looking at the river column, Sokoto has the largest population of people drinking river water so drilling equipment should be send out to Sokoto first, so people can drink safe filtered water from a well. The majority of water from Amanzi comes from taps, but half of these home taps don't work because the infrastructure is broken so engineering teams should be send out to look at the infrastructure in Amanzi first. Fixing a large pump, treatment plant or reservoir means that thousands of people will have running water. This means they will also not have to queue for water, so this would improve two things at once.
 
 **Recommendations:** 
 - If communities are using rivers, trucks should be dispatched to those regions to provide water temporarily in the short term, while crews are send out to drill for wells, providing a more permanent solution. Sokoto is the first province that should be targeted.
