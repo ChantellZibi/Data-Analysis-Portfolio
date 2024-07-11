@@ -20,7 +20,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
  ### Maji Ndogo Data Exploration
 
-**Project Overview:** This data analysis project aims to provide insights into specific provinces or towns in Maji Ndogo where some water sources area abundant and where some are lacking.
+**Project Overview:** This data analysis project aims to provide insights into water sources in Maji Ndogo that affect most people so that they can be improved to benefit the residents.
 
 **Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
 
