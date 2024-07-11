@@ -44,17 +44,18 @@ thousands of people will have running water. This means they will also not have 
 
 **Project Overview:** The goal of this project is to implement a plan in the database to improve water sources in Maji Ndogo by creating a table where our teams have the information they need to fix, upgrade and repair water sources.
 
-**Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
+**Code:** [Action Plan Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Action%20Plan.sql)
 
 **Description:** The database contains the addresses of the places the repair team should visit (street address, town, province), the type of water source they should improve, and what should be done to improve it.
 
-**Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
+**Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, CASE function.
 
 **Technology used:** SQL Server
 
-**Results:** Looking at the river column, Sokoto has the largest population of people drinking river water so drilling equipment should be send out to Sokoto first, so people can drink safe filtered water from a well. The majority of water from Amanzi comes from taps, but half of these home taps don't work because the infrastructure is broken so engineering teams should be send out to look at the infrastructure in Amanzi first. Fixing a large pump, treatment plant or reservoir means that
-thousands of people will have running water. This means they will also not have to queue for water, so this would improve two things at once.
+**Results:** Addressing broken infrastructure offers a significant impact even with just a single intervention. It is expensive to fix, but so many people can benefit from repairing one facility. For example, fixing a reservoir or pipe that multiple taps are connected to. We identified towns like Amina,Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 
 **Recommendations:** 
-- 
+- Install UV filter or Install RO filter for improvement where the results of the pollution tests are Contaminated: Biological and Contaminated: Chemical respectively.
+- Add Drilled wells to the improve all river sources
+- Install one tap near each shared tap for every 30 minutes of queue time.
 
