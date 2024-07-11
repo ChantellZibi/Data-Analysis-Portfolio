@@ -13,10 +13,10 @@ This is a repository to showcase my skills, share projects and track my progress
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
     - Presentation
-        - [EHR Presentation](#ehr-presentation)
+        - [EHR Presentation](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#ehr-presentation)
     - SQL
-        - [Maji Ndogo Data Exploration](#maji-ndogo-data-exploration)
-        - [Maji Ndojo Action Plan](#maji-ndogo-action-plan)
+        - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
+        - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
  
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
