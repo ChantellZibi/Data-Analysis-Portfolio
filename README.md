@@ -25,14 +25,16 @@ This is a repository to showcase my skills, share projects and track my progress
 
  **Presentation:** [EHR System Presentation](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/EHR%20presentation.pdf)
 
- **Goal:** The goal of this project is to present a design of an EHR system to help improve care coordination, providing doctors and patients with better access to test results, identifying missing patient information and may allow better care in emergency situations.
+ **Goal:** The goal of this project is to mitigating problems that people face in rural hospitals in regards to patient management, patient health records and resource allocation due to the lack of a digital patient management system which will help to  improve care coordination, providing doctors and patients with better access to test results, identifying missing patient information and may allow better care in emergency situations.
 
- **Description:** The project focuses on mitigating problems that people face in rural hospitals in regards to patient management, patient health records and resource allocation due to the lack of a digital patient management system.
+ **Description:** The project focuses on proposing an EHR system that will help to maintain accurate and accessible patient records.
 
- **Skills:** Powerpoint presentation,data analysis, data visualization.
+ **Skills:** Presentation,data analysis, data visualization.
 
+ **Technology used:** Microsoft Excel, Powerpoint Presentation
 
- 
+ **Results:** The implementation of an Electronic Health Record (EHR) system would automate processes, reducing waiting times, enabling efficient check-ins and providing real-time updates . Digital patient records would improve accessibility, accuracy and continuity of care. Additionally, the system would assist in resource management, optimizing bed allocation, equipment utilization and staff allocation. By embracing the EHR system, the hospital aims to enhance healthcare delivery, improve operational efficiency and increase patient satisfaction, ultimately benefits the local community.
+
 
  ### Maji Ndogo Data Exploration
 
