@@ -18,7 +18,8 @@ This is a repository to showcase my skills, share projects and track my progress
         - [Maji Ndogo Data Cleaning](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-cleaning)
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
- 
+ - [Education](#education)
+
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
@@ -90,3 +91,18 @@ This is a repository to showcase my skills, share projects and track my progress
 - Add Drilled wells to the improve all river sources
 - Install one tap near each shared tap for every 30 minutes of queue time.
 
+
+
+## Education
+ALX, Certification: Data Analytics, May 2023 - Dec 2023
+
+The Vaal University of Technology, NDip: Civil Engineering, 2015 - 2019
+
+### Certificates
+The best way to showcase your skills is by sharing the work you have done but sometimes certificates appear to be as an indirect result. Here is a list of the certificates I have (in reverse chronological order, with completion dates in brackets):
+- [Data Analytics Certificate]
+- [NDip: Civil Engineering]
+
+## Contacts
+- LinkedIn: [@chantellzibi]
+- Email: senate.bahlekazi@gmail.com
