@@ -19,6 +19,7 @@ This is a repository to showcase my skills, share projects and track my progress
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
  - [Education](#education)
+ - [Contacts](#contacts)
 
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
@@ -100,7 +101,7 @@ The Vaal University of Technology, NDip: Civil Engineering, 2015 - 2019
 
 ### Certificates
 The best way to showcase your skills is by sharing the work you have done but sometimes certificates appear to be as an indirect result. Here is a list of the certificates I have (in reverse chronological order, with completion dates in brackets):
-- [Data Analytics Certificate]
+- [Data Analytics Certificate](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/DAcertificate.pdf)
 - [NDip: Civil Engineering]
 
 ## Contacts
