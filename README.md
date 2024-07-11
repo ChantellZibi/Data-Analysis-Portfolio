@@ -21,7 +21,7 @@ This is a repository to showcase my skills, share projects and track my progress
 ## Portfolio Projects
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
- ### EHR Presentation
+### EHR Presentation
 
  **Presentation:** [EHR System Presentation](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/EHR%20presentation.pdf)
 
@@ -37,7 +37,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 
 
- ### Maji Ndogo Data Exploration
+### Maji Ndogo Data Exploration
 
 **Project Overview:** This data analysis project aims to provide insights into water sources in Maji Ndogo that affect most people so that they can be improved to benefit the residents.
 
@@ -58,7 +58,7 @@ thousands of people will have running water. This means they will also not have 
 - For shared taps, in the short term, we can send additional water tankers to the busiest taps, on the busiest days. We can use the queue time pivot table we made to send tankers at the busiest times. Meanwhile, we can start the work on installing extra taps where they are needed. According to UN standards, the maximum acceptable wait time for water is 30 minutes. With this in mind, our aim is to install taps to get queue times below 30 min. Towns like Bello, Abidjan and Zuri have a lot of people using shared taps, so we will send out teams to those towns first.
 - Shared taps with short queue times (< 30 min) represent a logistical challenge to further reduce waiting times. The most effective solution, installing taps in homes, is resource intensive and better suited as a long-term goal.
 
- ### Maji Ndogo Action Plan
+### Maji Ndogo Action Plan
 
 **Project Overview:** The goal of this project is to implement a plan in the database to improve water sources in Maji Ndogo by creating a table where our teams have the information they need to fix, upgrade and repair water sources.
 
