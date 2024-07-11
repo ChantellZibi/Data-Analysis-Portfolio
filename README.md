@@ -19,7 +19,7 @@ This is a repository to showcase my skills, share projects and track my progress
   In this section I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
  ### Maji Ndogo Data Exploration
-**Code:** [Data Exploration Project Queries: Maji Ndogo](https://chantellzibi.github.io/Portfolio-Projects/maji-ndogo-data-exploration)
+**Code:** ['Data Exploration Project Queries: Maji Ndogo.sql'](https://chantellzibi.github.io/Portfolio-Projects/maji-ndogo-data-exploration)
 
 **Description:** The database contains contains a water source table, a 'visits' table to record all the trips made to different water sources and the water_quality table to find records   where the subjective_quality_score is within a certain range and the visit_count is above a certain threshold.
 
