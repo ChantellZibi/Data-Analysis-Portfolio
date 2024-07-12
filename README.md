@@ -101,11 +101,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Technology used:** Power BI
 
-**Findngs 1:** With nothing selected, all of the metrics shown below are at the National level. The treemap shows how many people use the water sources per type of source, but its function is actually to select each source type. Filtering on sources can help engineers who are responsible for shared taps, for example, to see what they need to do Nationally, Provincially, rurally, and in each town.
-
-**Findings 2:** We can see that in Amanzi, the average queue is mostly made up of men, while on a national level, it is mostly women. On Saturdays, queues across Maji Ndogo are 40% men, and on Mondays, 71% women. And when zooming in on 15:00 on a Saturday and see that the queue has only 3% children, while an hour later, the queue has 29% children.
-
-**Findings 3:** 
+**Findings:** 
 - As water collectors, women are twice as likely to be a victim of crime than men.
 - Women are most likely to be victims of harassment, followed by sexual assault.
 - Crime spikes over weekends, and almost twice as many crimes are committed early in the mornings or at night with women again facing the greatest threat.
