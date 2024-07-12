@@ -18,6 +18,8 @@ This is a repository to showcase my skills, share projects and track my progress
         - [Maji Ndogo Data Cleaning](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-cleaning)
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
+    - Power BI
+        - [Data Visualization of Maji Ndogo](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#data-visualization-of-Maji-Ndogo)
  - [Education](#education)
  - [Contacts](#contacts)
 
@@ -92,6 +94,22 @@ This is a repository to showcase my skills, share projects and track my progress
 - Add Drilled wells to the improve all river sources
 - Install one tap near each shared tap for every 30 minutes of queue time.
 
+### Data Visualization of Maji Ndogo
+**Project Overview:** These reports will aim to present the data in a manner that is not only accessible but also compelling, ensuring that the key messages resonate with stakeholders.  Focus will be on clarity and impact, ensuring that the information provided drives informed decision-making and strategy formulation. The goal is to make complex data comprehensible, engaging, and actionable.
+
+**Description:** I utilized clean and intuitive designs with a colour scheme that subtly underscores the water crisis theme.I imported a table of Maji Ndogo's national water crisis with the following columns, hour of day (The hour of day at the time of record which will help aggregate the data by the hour of the day), day of week (The day of the week from the time of record which will help aggregate the data by the day of the week), percent male (The percentage of men in the queue at the time of record), percent female (The percentage of men in the queue at the time of record), percent child (The percentage of men in the queue at the time of record). I also imported the visits, water source, well pollution, project progress and infrastructure cost tables, ensuring a 1-to-1 or 1-to-many relationship, where appropriate,  between the tables. 
+
+**Technology used:** Power BI
+
+**Findngs 1:** With nothing selected, all of the metrics shown below are at the National level. The treemap shows how many people use the water sources per type of source, but its function is actually to select each source type. Filtering on sources can help engineers who are responsible for shared taps, for example, to see what they need to do Nationally, Provincially, rurally, and in each town.
+
+**Findings 2:** We can see that in Amanzi, the average queue is mostly made up of men, while on a national level, it is mostly women. On Saturdays, queues across Maji Ndogo are 40% men, and on Mondays, 71% women. And when zooming in on 15:00 on a Saturday and see that the queue has only 3% children, while an hour later, the queue has 29% children.
+
+**Findings 3:** 
+- As water collectors, women are twice as likely to be a victim of crime than men.
+- Women are most likely to be victims of harassment, followed by sexual assault.
+- Crime spikes over weekends, and almost twice as many crimes are committed early in the mornings or at night with women again facing the greatest threat.
+- In Amanzi, women face significantly less risk of being crime victims.
 
 
 ## Education
