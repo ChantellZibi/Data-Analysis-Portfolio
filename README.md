@@ -33,7 +33,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
  **Description:** The project focuses on proposing an EHR system that will help to maintain accurate and accessible patient records.
 
- **Skills:** Presentation,data analysis, data visualization.
+ **Skills:** Presentation, data analysis, data visualization.
 
  **Technology used:** Microsoft Excel, Powerpoint Presentation
 
@@ -45,7 +45,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Code:** [Data Cleaning Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Data%20Cleaning.sql)
 
-**Description:** The database contains a water source table, a 'visits' table to record all the trips made to different water sources, the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold and an employee table which has info on all of our workers, but then the email addresses have not been added.
+**Description:** The database contains a water source table, a visits table to record all the trips made to different water sources, the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold and an employee table which has info on all of our workers, but then the email addresses have not been added.
 
 **Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
 
@@ -106,7 +106,7 @@ This is a repository to showcase my skills, share projects and track my progress
 - Women are most likely to be victims of harassment, followed by sexual assault.
 - Crime spikes over weekends, and almost twice as many crimes are committed early in the mornings or at night with women again facing the greatest threat.
 - In Amanzi, women face significantly less risk of being crime victims.
-<img src="https://github.com/ChantellZibi/Portfolio-Projects/blob/main/crime%20rate.png" alt="Crime rate in Maji Ndogo based on gender">
+<img src="https://github.com/ChantellZibi/Portfolio-Projects/blob/main/crime%20rate.png">
 
 
 ## Education
