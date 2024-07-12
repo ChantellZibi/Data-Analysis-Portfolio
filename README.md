@@ -19,7 +19,7 @@ This is a repository to showcase my skills, share projects and track my progress
         - [Maji Ndogo Data Exploration](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-data-exploration)
         - [Maji Ndojo Action Plan](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#maji-ndogo-action-plan)
     - Power BI
-        - [Data Visualization of Maji Ndogo](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#data-visualization-of-Maji-Ndogo)
+        - [Data Visualization of Maji Ndogo](https://github.com/ChantellZibi/Data-Analysis-Portfolio/#data-visualization-of-maji-ndogo)
  - [Education](#education)
  - [Contacts](#contacts)
 
@@ -110,7 +110,6 @@ This is a repository to showcase my skills, share projects and track my progress
 - Women are most likely to be victims of harassment, followed by sexual assault.
 - Crime spikes over weekends, and almost twice as many crimes are committed early in the mornings or at night with women again facing the greatest threat.
 - In Amanzi, women face significantly less risk of being crime victims.
-[Crime rate in Maji Ndogo based on gender](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Crime%20rate.png)
 
 
 ## Education
