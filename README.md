@@ -62,7 +62,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 **Code:** [Data Exploration Project Queries: Maji Ndogo](https://github.com/ChantellZibi/Portfolio-Projects/blob/main/Maji%20Ndogo%20Data%20Exploration.sql)
 
-**Description:** The database contains a water source table, a 'visits' table to record all the trips made to different water sources and the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold.
+**Description:** The database contains a water source table, a visits table to record all the trips made to different water sources and the water quality table to find records   where the subjective quality score is within a certain range and the visit count is above a certain threshold.
 
 **Skills:** Joins,CTE's, Windows Functions, Aggregate Functions, Creating Views
 
